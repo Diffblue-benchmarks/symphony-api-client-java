@@ -1,0 +1,20 @@
+{
+  "sessionAuthHost": "127.0.0.1",
+  "sessionAuthPort": 8443,
+  "keyAuthHost": "127.0.0.1",
+  "keyAuthPort": 8443,
+  "podHost": "127.0.0.1",
+  "podPort": 8443,
+  "agentHost": "127.0.0.1",
+  "agentPort": 8443,
+  "appId": "testapp2",
+  "appPrivateKeyPath": "src/test/resources/",
+  "appPrivateKeyName": "testprivatekey2.pkcs8",
+  "botPrivateKeyPath": "src/test/resources/",
+  "botPrivateKeyName": "testprivatekey2.pkcs8",
+  "botUsername": "testbot2",
+  "authTokenRefreshPeriod": "60",
+  "truststorePath": "src/test/resources/testkeystore.jks",
+  "truststorePassword": "7890",
+  "connectionTimeout": 500
+}
